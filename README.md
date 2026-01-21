@@ -6,7 +6,7 @@ Li, H., Sugasawa, S., and Katayama, S.Robust(2026). Global Fréchet Regression v
 
 The repository includes the following 3 files.
 
-- `code-simulation-distribution.R`: implementing code for distribution-valued outcomes, designed to evaluate robustness and predictive performance under contamination observation.
+- `code-simulation-distribution.R`: implementing code for distribution-valued outcomes, designed to evaluate robustness performance under contamination observation.
 
 - `code-simulation-matrix.R`: implementing code for matrix-valued outcomes, demonstrating robustness from weight regularization in global Fréchet regression.
 
