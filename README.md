@@ -8,6 +8,6 @@ The repository includes the following 3 files.
 
 - `code-simulation-distribution.R`: implementing code for distribution-valued outcomes to evaluate robustness under contaminated observations
 
-- `code-simulation-matrix.R`: implementing code for matrix-valued outcomes to demonstrate robustness resulting from weight regularization
+- `code-simulation-matrix.R`: implementing code for matrix-valued outcomes to demonstrate robustness
 
 - `type2matric.R` Demonstrating the data-generating process for the second type of matrix-valued response.
