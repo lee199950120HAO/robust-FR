@@ -1,4 +1,4 @@
-arXiv:2511.03694# Robust Global Fréchet Regression via Weight Regularization
+# Robust Global Fréchet Regression via Weight Regularization
 This repository provides R code for R code for robust global Fréchet regression via weight regularization, proposed in the following paper:
 
 
