@@ -8,6 +8,6 @@ The repository includes the following 3 files.
 
 - `code-simulation-distribution.R`: implementing code for distribution-valued outcomes, designed to evaluate robustness and predictive performance under contamination observtiona.
 
-- `code-simulation-matrix.R`: implementing code for matrix-valued outcomes (including contaminated settings), demonstrating robustness from weight regularization in global Fréchet regression.
+- `code-simulation-matrix.R`: implementing code for matrix-valued outcomes, demonstrating robustness from weight regularization in global Fréchet regression.
 
 - `type2matric.R` Demonstrating the data-generating process for the second type of matrix-valued response.
